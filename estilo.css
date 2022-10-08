@@ -1,0 +1,48 @@
+#conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+    position: relative;
+
+}
+
+
+
+form {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1.5px;
+    border-color: rgb(1, 181, 181);
+    padding: 5px;
+    background-color: rgb(224, 242, 250);
+    /* position: absolute; */
+    margin-left: 0px;
+}
+
+
+
+
+label {
+    font-size: 15px;
+    display: block;
+    margin: 5px;
+}
+
+#senha {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.botao {
+    width: 37px;
+    height: 15px;
+    font-size: 10px;
+    margin-left: 65px;
+    padding-right: 9mm;
+}
+
+
+.check {
+    font-size: 12px;
+}
